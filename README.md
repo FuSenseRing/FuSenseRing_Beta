@@ -1,6 +1,7 @@
 # FuSenseRing: An Open-Source Platform for Cuffless Blood Pressure Monitoring
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/1023850556.svg)](https://doi.org/10.5281/zenodo.16299478)
 [![Status](https://img.shields.io/badge/status-beta-orange.svg)](#beta-release--current-status)
 
 **FuSenseRing** is an open-source, research-focused smart ring **platform** designed to accelerate innovation in cuffless blood pressure (BP) monitoring. This project provides a complete, custom-designed flexible hardware and firmware solution that integrates a suite of high-fidelity physiological sensors (PPG, ECG, skin temperature, contact force).
