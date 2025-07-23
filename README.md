@@ -26,9 +26,9 @@ The repository is organized into the following main directories:
     -   `PCB/`: Schematics, layout files, and Bill of Materials (BOM) for the flexible printed circuit board.
     -   `Case/`: 3D CAD models (STL and STEP formats) for the 3D-printable ring enclosure.
 -   `📁 Firmware/`: Source code for the microcontroller running on the FuSenseRing. This includes sensor interfacing, data acquisition, and Bluetooth Low Energy (BLE) streaming protocols.
--   `📁 Example_Algorithm/`: A Python script demonstrating a baseline approach to BP estimation using the multimodal sensor data. This serves as a starting point for researchers to develop and validate their own new algorithms.
--   `📁 Example_App/`: A simple desktop application for connecting to the ring, streaming raw sensor data in real-time, and saving it for offline analysis.
--   `📁 Documentation/`: Additional guides and documentation.
+-   🚧 **Under Construction**`📁 Example_Algorithm/`: A Python script demonstrating a baseline approach to BP estimation using the multimodal sensor data. This serves as a starting point for researchers to develop and validate their own new algorithms.
+-   🚧 **Under Construction**`📁 Example_App/`: A simple desktop application for connecting to the ring, streaming raw sensor data in real-time, and saving it for offline analysis.
+-   🚧 **Under Construction**`📁 Documentation/`: Additional guides and documentation.
 
 ---
 
