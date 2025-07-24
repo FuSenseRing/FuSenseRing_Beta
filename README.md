@@ -38,7 +38,7 @@ The repository is organized into the following main directories:
 
 The `/Hardware` directory contains the necessary files to fabricate and assemble the FuSenseRing.
 * **PCB:** You can use the provided PDF schematics for reference and the Gerber files (coming in the final release) for manufacturing. The `Bill_of_Materials.csv` lists all required components.
-* **3D Case:** The `/Case` directory includes `.stl` files ready for 3D printing and `.step` files for modification in CAD software.
+* **3D Case:** The `/Case` directory includes `.stl` files ready for 3D printing.
 
 ### Example Algorithm & Application
 
