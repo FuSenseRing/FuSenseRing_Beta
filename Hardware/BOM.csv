@@ -1,0 +1,43 @@
+Qty, Names, Value, Package,Purchase Link,Unit Price (Retail),Unit Price (Wholesale),Total Price (Retail),Total Price (Wholesale)
+10, C1; C4; C11; C12; C20; C22; C23; C24; C27; C33, 0.1uF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM033C71C104KE14D/5027472,0.013,0.0056,0.13,0.056
+1, C2, 10uF, C0402,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A106MQ5NUNC/3887109,0.08,0.033,0.08,0.033
+5, C3; C7; C8; C21; C25, 1uF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM033C71C104KE14D/5027472,0.08,0.008,0.4,0.04
+1, C5, 100pF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H101JA01D/2269165,0.1,0.00532,0.1,0.00532
+2, C6; C13, 15pF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H150JA01D/2542130,0.1,0.00524,0.2,0.01048
+2, C9; C10, 6pF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H6R0WA01D/17863707,0.1,0.00926,0.2,0.01852
+1, C15, 1.2pF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM0335C1H1R2CA01D/2542145,0.1,0.00466,0.1,0.00466
+1, C19, 4.7uF, C0201,https://www.digikey.com/en/products/detail/murata-electronics/GRM035R60J475ME15D/5877393,0.1,0.039,0.1,0.039
+1, C26, 1nF, C0603,https://www.digikey.com/en/products/detail/kemet/C0603X102K5RAC3316/10315783,0.35,0.0898,0.35,0.0898
+2, C29; C30, 0.33uF, C0805,https://www.digikey.com/en/products/detail/murata-electronics/GRM219R71H334KA88D/702591,0.36,0.11078,0.72,0.22156
+1, C31, 1.5nF, C0603,https://www.digikey.com/en/products/detail/kemet/C0603X152J4HACTU/8334437,0.1,0.0237,0.1,0.0237
+1, C32, 10nF, C0603,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B103KO8WPNC/20498515,0.1,0.01712,0.1,0.01712
+1, E1, 2450AT18B100E,,https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT18B0100001E/1560677,0.51,0.24858,0.51,0.24858
+1, IC2, DW01A,,https://www.digikey.com/en/products/detail/evvo/DW01/26221278?gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLljRKsZo5eubWIDn52W-UV3-R&gclid=Cj0KCQjws4fEBhD-ARIsACC3d28c8ncj_iUP4D9io-PsPovsRn4iD0BcRoYMmuOctn9OY99e8ASHn3IaAkh8EALw_wcB&gclsrc=aw.ds,0.1,0.02862,0.1,0.02862
+1, J1,5050701022,,https://www.digikey.com/en/products/detail/molex/5050701022/9693935?s=N4IgTCBcDaIKwAZEHYEEYFggXQL5A,0.69,0.4417,0.69,0.4417
+1, L1, 3.3nH, L0402,https://www.digikey.com/en/products/detail/tdk-corporation/MLG1005S3N3CT000/4742669,0.1,0.0609,0.1,0.0609
+1, L2, 2.7nH, L0402,https://www.digikey.com/en/products/detail/johanson-technology-inc/LRC0402CS2N7GV001T/1830166,0.1,0.0247,0.1,0.0247
+1, Q3, FS8205,,https://www.digikey.com/en/products/detail/umw/8205A/24890563?gad_source=1&gad_campaignid=21136823955&gbraid=0AAAAADrbLlgz70eZ4_1NhxRI2CY2DymE6&gclid=Cj0KCQjws4fEBhD-ARIsACC3d2913fPW7nZyFSMbtSVJtP2cPXs7fpQXHbfBHAKw__cNbMu-BsmxTnAaAtNNEALw_wcB&gclsrc=aw.ds,0.37,0.10622,0.37,0.10622
+5, R3; R7; R14; R15; R17, 1k, R0201,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF1001C/2036112,0.1,0.0202,0.5,0.101
+1, R5,100, R0201,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF1000C/2035998,0.1,0.0202,0.1,0.0202
+4, R6; R8; R16; R36, 10k, R0201,https://www.digikey.com/en/products/detail/vishay-dale/CRCW020110K0FNED/1178493,0.1,0.0209,0.4,0.0836
+2, R18; R27, 180k, R0201,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF1803C/2036367,0.1,0.0202,0.2,0.0404
+1, R19, 360k, R0201,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF3603C/2036403,0.1,0.0202,0.1,0.0202
+2, R20; R21, 2.2k, R0201,https://www.digikey.com/en/products/detail/yageo/RC0201FR-072K2L/5280432,0.1,0.0082,0.2,0.0164
+6, R22; R24; R31; R33; R38; R39, 10M, R0201,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0201JT10M0/3906034,0.1,0.0101,0.6,0.0606
+1, R23, 1.4M, R0201,https://www.digikey.com/en/products/detail/yageo/RC0201FR-071M4L/5917051,0.1,0.0133,0.1,0.0133
+1, R25, 1M, R0603,https://www.digikey.com/en/products/detail/yageo/RC0603FR-071ML/726844,0.1,0.0071,0.1,0.0071
+1, R26, 100k, R0603,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100K/1761112,0.1,0.0091,0.1,0.0091
+2, R28; R32, 1M, R0201,https://www.digikey.com/en/products/detail/vishay-dale/CRCW02011M00FKED/1968003,0.21,0.0615,0.42,0.123
+2, R29; R34,0, R0201,https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73Z1HTTC/9843682,0.1,0.0124,0.2,0.0248
+1, S2,  CUS-12TB,,https://www.digikey.com/en/products/detail/nidec-components-corporation/CUS-12TB/1124222?s=N4IgTCBcDaIARwMIFUDKBaAjGAKgIRAF0BfIA,0.86,0.53304,0.86,0.53304
+1, U$1, MIC5370-SGYMT,,https://www.digikey.com/en/products/detail/microchip-technology/MIC5370-SGYMT-TR/2020357?s=N4IgTCBcDaIAQFkCSBhArAZgOwAYC0AygOICaCAKiALoC%2BQA,0.5,0.37,0.5,0.37
+2, U$14; U$20, SML-P12U2TT86R,,https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-P12U2TT86R/5355777,0.27,0.10624,0.54,0.21248
+1, U1, MAX30101,,https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX30101EFD+T?qs=sITqEBh490kEm6CNcTH1tQ%3D%3D&utm_id=8789039442&utm_source=google&utm_medium=cpc&utm_marketing_tactic=amercorp&gad_source=1&gad_campaignid=8789039442&gbraid=0AAAAADn_wf1HG2Fg0lqGcL6VPfocLSUMy&gclid=Cj0KCQjws4fEBhD-ARIsACC3d2_aJn7ftuH1ba7unfAAZgvPc11W3z1S9NSykL4M1QOKHePcPvbsGWwaAm6qEALw_wcB,11.9,7.44,11.9,7.44
+1, U2,NRF52832-QFAA-G-R,,https://www.mouser.com/ProductDetail/Nordic-Semiconductor/NRF52832-QFAA-G-R?qs=iLbezkQI%252BsilR5QzU9BFow%3D%3D,3.47,3.47,3.47,3.47
+1, U3, TXS0102DQE,,https://www.digikey.com/en/products/detail/texas-instruments/TXS0102DQER/2625890?s=N4IgTCBcDaIAQBUAaBlADARjWAIgRQFEQBdAXyA,0.77,0.38806,0.77,0.38806
+1, U4, TMP117,,https://www.digikey.com/en/products/detail/texas-instruments/TMP117MAIDRVR/9685285,2.15,1.44254,2.15,1.44254
+1, U5, AD8232,,https://www.digikey.com/en/products/detail/analog-devices-inc/AD8232ACPZ-R7/3758432,6.03,2.34232,6.03,2.34232
+1, Y1, CM8V-T1A-32.768KHZ-7PF-20PPM,,https://www.digikey.com/en/products/detail/micro-crystal-ag/CM8V-T1A-32-768KHZ-7PF-20PPM-TA-QC/10499080,0.48,0.3289,0.48,0.3289
+1, Y2, CRYSTAL-SMD-2.0X1.6MM,,https://www.digikey.com/en/products/detail/murata-electronics/XRCGB32M000F2P00R0/4952005?s=N4IgTCBcDaIBoCUDCBxAQgZjAWQAz4DEwAFfBXEAXQF8g,0.31,0.21102,0.31,0.21102
+1,N/A,Force sensor,,https://www.amazon.com/dp/B0C1SG8NS9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1,4.2,4.2,4.2,4.2
+Total,,,,,,,38.68,22.92794
