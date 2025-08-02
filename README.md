@@ -1,4 +1,4 @@
-# FuSenseRing: An Open-Source Platform for Cuffless Blood Pressure Monitoring
+# FuSenseRing: An Open-Source Smart Ring Platform for Cuffless Blood Pressure Monitoring
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/1023850556.svg)](https://doi.org/10.5281/zenodo.16299478)
